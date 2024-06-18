@@ -1,0 +1,13 @@
+pyqt5==5.15.9
+torch==1.10.2+cu113
+pyyaml==6.0.1
+opencv-python==4.1.2.30
+matplotlib==3.7.5
+numpy==1.24.4
+pandas==2.0.3
+seaborn==0.13.2
+pillow==10.2.0
+scipy==1.10.1
+torchvision==0.11.3+cu113
+tqdm==4.66.2
+requests==2.31.0
